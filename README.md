@@ -3,7 +3,7 @@
 Input format <br/>
 BEGIN <br/>
 
-DISP: 1 
+DISP: 1 <br/>
 END
 
 ID: p1 <br/>
